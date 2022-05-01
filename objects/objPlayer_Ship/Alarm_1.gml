@@ -1,0 +1,1 @@
+dashCooldown = 10;
